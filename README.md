@@ -1,6 +1,6 @@
 # LOAN-ELIGIBILITY-PREDICTION
 
-This program applies basic machine learning (classification) concepts on kaggle loan eligibility Data to predict the loan status of a person.
+This program applies basic machine learning (classification) concepts on kaggle loan eligibility Dataset to predict the loan status of a person.
 ----------------------------
 Software and Libraries
 
