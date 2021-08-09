@@ -7,7 +7,7 @@ Software and Libraries
 Python 3.6.0
 Jupyter Notebook 
 scikit-learn 0.18.1
--------------------------------
+
 Introduction
 
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor).
