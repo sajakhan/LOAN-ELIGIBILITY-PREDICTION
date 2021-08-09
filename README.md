@@ -10,13 +10,6 @@ scikit-learn 0.18.1
 
 Introduction
 
-The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor).
-Four features were measured from each sample (in centimetres):
-Length of the sepals
-Width of the sepals
-Length of the petals
-Width of the petals
-Working of the iris_decision_tree_classifier
 
 The program takes data from the training data set.
 The program then divides the dataset into training and testing samples in 80:20 ratio randomly using train_test_learn() function available in sklearn module.
